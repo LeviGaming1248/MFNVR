@@ -1,7 +1,7 @@
 # MFNVR
 A work-in-progress VR mod for My Friendly Neighborhood that brings full 6DOF head tracking and motion controller support to the game
 
-<img width="1035" height="444" alt="mfnvr" src="https://github.com/user-attachments/assets/d5604352-5471-4290-8fdf-664fc0fa065d" />
+<img width="518 " height="222" alt="mfnvr" src="https://github.com/user-attachments/assets/d5604352-5471-4290-8fdf-664fc0fa065d" />
 
 Full 6DOF VR support
 
