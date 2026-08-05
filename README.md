@@ -4,7 +4,6 @@ A work-in-progress VR mod for **My Friendly Neighborhood** that brings full 6DOF
 
 <img width="518" height="222" alt="MFNVR" src="https://github.com/user-attachments/assets/d5604352-5471-4290-8fdf-664fc0fa065d" />
 
-# Features
 
 | Current Features |
 | --- |
