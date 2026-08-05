@@ -7,7 +7,6 @@ A work-in-progress VR mod for My Friendly Neighborhood that brings full 6DOF hea
 Full 6DOF VR head tracking
 
 Room-scale gameplay
-
 Tracked motion controllers
 
 Motion-controlled weapons
