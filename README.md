@@ -5,19 +5,33 @@ A work-in-progress VR mod for My Friendly Neighborhood that brings full 6DOF hea
 
 # Features
 Full 6DOF VR head tracking
+
 Room-scale gameplay
+
 Tracked motion controllers
+
 Motion-controlled weapons
+
 Weapon-aligned shooting and crosshair
+
 Two-handed weapon gripping
+
 Independent floating VR hands
+
 Physical wrench melee: Swing the wrench with your real arm to attack
+
 Faster swings deal more damage
 
 VR-compatible HUD and menus
+
 Support for playing through the full game
+
 OpenXR support, currently developed and tested using Oculus Rift S
-This project is still very much a work in progress. Bugs, visual issues, incomplete interactions, and performance problems should be expected. More VR interactions, controller improvements, polish, and quality-of-life features are planned.
+
+This project is still very much a work in progress. Bugs, visual issues, incomplete interactions, and performance problems should be expected.
+
+More VR interactions, controller improvements, polish, and quality-of-life features are planned.
+
 Full 6DOF VR support
 
 Motion controller tracking
