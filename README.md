@@ -2,9 +2,13 @@
 A work-in-progress VR mod for My Friendly Neighborhood that brings full 6DOF head tracking and motion controller support to the game
 
 Full 6DOF VR support
+
 Motion controller tracking
+
 Room-scale gameplay
+
 Full game playable in VR
+
 Very much a work in progress. more features coming soon
 
 # DISCLAIMER
