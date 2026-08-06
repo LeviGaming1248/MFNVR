@@ -23,16 +23,6 @@ This project is still very much a work in progress. Bugs, visual issues, incompl
 
 More VR interactions, controller improvements, polish, and quality-of-life features are planned.
 
-## Current Goals
-
-- Full 6DOF VR support
-- Accurate motion controller tracking
-- Room-scale gameplay
-- Physical weapon interactions
-- Full game playable in VR
-- Improved performance and compatibility
-- Support for additional OpenXR headsets
-
 Very much a work in progress. More features are coming soon.
 
 # DISCLAIMER
