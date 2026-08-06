@@ -6,6 +6,10 @@ A work-in-progress VR mod for **My Friendly Neighborhood** that brings full 6DOF
 
 I know this sounds suspicious but for now there isn't any source code and there wont be until August 5th as I ran out of codex usage as it was getting the source code ready
 
+# Known Issues
+Using the toolbox doesn't work properly and is very broken (Using the inventory works fine)
+
+
 | Current Features |
 | --- |
 | Support for playing through the full game |
