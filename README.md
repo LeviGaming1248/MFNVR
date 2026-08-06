@@ -7,6 +7,7 @@ A work-in-progress VR mod for **My Friendly Neighborhood** that brings full 6DOF
 
 | Current Features |
 | --- |
+| Support for playing through the full game |
 | Full 6DOF VR head tracking |
 | Room-scale gameplay |
 | Tracked motion controllers |
@@ -15,12 +16,7 @@ A work-in-progress VR mod for **My Friendly Neighborhood** that brings full 6DOF
 | Two-handed weapon gripping |
 | Independent floating VR hands |
 | Physical wrench melee |
-| Swing the wrench with your real arm to attack |
-| Faster wrench swings deal more damage |
-| Strong wrench swings can stun enemies |
-| Limited physical melee range and attack cooldown |
 | VR-compatible HUD and menus |
-| Support for playing through the full game |
 | OpenXR support, currently developed and tested using Oculus Rift S
 
 This project is still very much a work in progress. Bugs, visual issues, incomplete interactions, compatibility problems, and performance issues should be expected.
