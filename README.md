@@ -42,11 +42,12 @@ I know this sounds suspicious but for now there isn't any source code and there 
 
 # Planned Features
 
-- Improved toolbox interaction.
-- Better hand poses.
-- Physical item interactions.
+
+
+- Fixed toolbox interaction.
 - Improved weapon handling.
 - Better menu interactions.
+- Possibly manual reloading.
 - Performance improvements.
 - Additional comfort options.
 
