@@ -10,6 +10,12 @@ I know this sounds suspicious but for now there isn't any source code and there 
 # Known Issues
 Using the toolbox doesn't work properly and is very broken (Using the inventory works fine)
 
+# Requirements
+
+- My Friendly Neighborhood on Steam.
+- A Windows computer.
+- SteamVR or Oculus-compatible headset.
+
 
 | Current Features |
 | --- |
