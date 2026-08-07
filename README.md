@@ -12,11 +12,11 @@ Using the toolbox doesn't work properly and is very broken (Using the inventory 
 
 # Requirements
 
-- My Friendly Neighborhood on Steam.
-- A Windows computer.
-- SteamVR or Oculus-compatible headset.
+My Friendly Neighborhood on Steam.
+A Windows computer.
+SteamVR or Oculus-compatible headset.
 
-- # Install
+# Install
 
 In Steam, open MFN > Manage > Browse local files.
 Copy all files from the provided zip into the My Friendly Neighborhood folder.
