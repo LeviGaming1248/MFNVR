@@ -12,9 +12,9 @@ Using the toolbox doesn't work properly and is very broken (Using the inventory 
 
 # Requirements
 
-My Friendly Neighborhood on Steam.
-A Windows computer.
-SteamVR or Oculus-compatible headset.
+- My Friendly Neighborhood on Steam.
+- A Windows computer.
+- SteamVR or Oculus-compatible headset.
 
 # Install
 
