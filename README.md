@@ -8,7 +8,7 @@ A work-in-progress VR mod for **My Friendly Neighborhood** that brings full 6DOF
 I know this sounds suspicious but for now there isn't any source code and there wont be until August 11th as I ran out of codex usage as it was getting the source code ready
 
 # Known Issues
-Using the toolbox doesn't work properly and is very broken (Using the inventory works fine)
+- Using the toolbox doesn't work properly and is very broken (Using the inventory works fine)
 
 # Requirements
 
@@ -18,10 +18,10 @@ Using the toolbox doesn't work properly and is very broken (Using the inventory 
 
 # Install
 
-In Steam, open MFN > Manage > Browse local files.
-Copy all files from the provided zip into the My Friendly Neighborhood folder.
-Make sure either Oculus app or SteamVR is the active OpenXR runtime, Others are untested.
-Open Steam, press play and put on your VR headset.
+- In Steam, open MFN > Manage > Browse local files.
+- Copy all files from the provided zip into the My Friendly Neighborhood folder.
+- Make sure either Oculus app or SteamVR is the active OpenXR runtime, Others are untested.
+- Open Steam, press play and put on your VR headset.
 
 
 | Current Features |
