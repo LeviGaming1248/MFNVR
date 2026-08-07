@@ -5,10 +5,10 @@ A work-in-progress VR mod for **My Friendly Neighborhood** that brings full 6DOF
 <img width="518" height="222" alt="MFNVR" src="https://github.com/user-attachments/assets/d5604352-5471-4290-8fdf-664fc0fa065d" />
 
 
-I know this sounds suspicious but for now there isn't any source code and there wont be until August 11th as I ran out of codex usage as it was getting the source code ready
+I know this sounds suspicious but for now there isn't any source code and there wont be until August 11th as I ran out of codex usage as it was getting the source code ready.
 
 # Known Issues
-- Using the toolbox doesn't work properly and is very broken (Using the inventory works fine)
+- Using the toolbox doesn't work properly and is very broken. (Using the inventory works fine)
 
 # Requirements
 
@@ -41,13 +41,13 @@ I know this sounds suspicious but for now there isn't any source code and there 
 
 # Planned Features
 
-- Improved toolbox interaction
-- Better hand poses
-- Physical item interactions
-- Improved weapon handling
-- Better menu interactions
-- Performance improvements
-- Additional comfort options
+- Improved toolbox interaction.
+- Better hand poses.
+- Physical item interactions.
+- Improved weapon handling.
+- Better menu interactions.
+- Performance improvements.
+- Additional comfort options.
 
 This project is still very much a work in progress. Bugs, visual issues, incomplete interactions, compatibility problems, and performance issues should be expected.
 
