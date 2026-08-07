@@ -16,6 +16,13 @@ Using the toolbox doesn't work properly and is very broken (Using the inventory 
 - A Windows computer.
 - SteamVR or Oculus-compatible headset.
 
+- # Install
+
+In Steam, open MFN > Manage > Browse local files.
+Copy all files from the provided zip into the My Friendly Neighborhood folder.
+Make sure either Oculus app or SteamVR is the active OpenXR runtime, Others are untested.
+Open Steam, press play and put on your VR headset.
+
 
 | Current Features |
 | --- |
