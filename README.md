@@ -66,10 +66,10 @@ Use this project at your own risk. Code reviews, bug reports, testing feedback, 
 
 
 
-<img width="960" height="540" alt="image" src="https://github.com/user-attachments/assets/6b563b0d-3c79-45c3-a753-315a75af1b34" />
+<img width="700" height="540" alt="image" src="https://github.com/user-attachments/assets/6b563b0d-3c79-45c3-a753-315a75af1b34" />
 
 
-<img width="960" height="540" alt="image" src="https://github.com/user-attachments/assets/82c65604-8a9f-4d29-ba6f-d8af8edc7e9a" />
+<img width="700" height="540" alt="image" src="https://github.com/user-attachments/assets/82c65604-8a9f-4d29-ba6f-d8af8edc7e9a" />
 
 
-<img width="960" height="540" alt="image" src="https://github.com/user-attachments/assets/ad328172-ae66-4069-8aac-f88d4f8c5fd9" />
+<img width="700" height="540" alt="image" src="https://github.com/user-attachments/assets/ad328172-ae66-4069-8aac-f88d4f8c5fd9" />
