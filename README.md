@@ -39,6 +39,16 @@ I know this sounds suspicious but for now there isn't any source code and there 
 | VR-compatible HUD and menus |
 | OpenXR support, currently developed and tested using Oculus Rift S
 
+# Planned Features
+
+- Improved toolbox interaction
+- Better hand poses
+- Physical item interactions
+- Improved weapon handling
+- Better menu interactions
+- Performance improvements
+- Additional comfort options
+
 This project is still very much a work in progress. Bugs, visual issues, incomplete interactions, compatibility problems, and performance issues should be expected.
 
 More VR interactions, controller improvements, polish, and quality-of-life features are planned.
