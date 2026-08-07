@@ -22,6 +22,7 @@ I know this sounds suspicious but for now there isn't any source code and there 
 - Copy all files from the provided zip into the My Friendly Neighborhood folder.
 - Make sure either Oculus app or SteamVR is the active OpenXR runtime, Others are untested.
 - Open Steam, press play and put on your VR headset.
+- It is highly recommended to set FOV to about 100.
   
 
 
